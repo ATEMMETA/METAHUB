@@ -1,0 +1,15 @@
+```
+{
+  "name": "meta-hub",
+  "version": "1.0.0",
+  "description": "META HUB repository",
+  "scripts": {
+    "start": "node database.js"
+  },
+  "author": "atem",
+  "license": "ISC",
+  "dependencies": {
+    "@replit/database": "^1.0.2"
+  }
+}
+```
